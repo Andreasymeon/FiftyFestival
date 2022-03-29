@@ -13,5 +13,13 @@
     opacity: 1;
   }
   
+  .circle {
+    display: none;
+  }
+
+  .squiggle {
+    display: none;
+  }
+}
   
 }
