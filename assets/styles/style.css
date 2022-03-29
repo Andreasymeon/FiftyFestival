@@ -160,11 +160,8 @@ body {
 @media (max-width: 640px) {
   
   .marquee {
-    position: relative;
-    top: auto;
     left: auto;
     width: 90vw;
-    margin-bottom: 24px;
   }
   
   .logo {
@@ -182,6 +179,14 @@ body {
   
   .lineup h2 {
     font-size: 30px;
+  }
+
+  .circle {
+    display: none;
+  }
+
+  .squiggle {
+    display: none;
   }
   
 }
